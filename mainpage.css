@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Josefin+Sans:wght@600;700&display=swap');
+
+h1
+{
+    font-family: 'Crete Round', serif;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    word-spacing: 7px;
+}
+
+.jumbotron
+{
+    background-color: #000000;
+}
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+.tweets
+{
+    text-align: center;
+    font-family: 'Josefin', sans-serif;
+    font-size:25px;
+}
+
+.imf-fluid
+{
+    margin-left: 0;
+}
+/* 
+body
+{
+    background-image:url("https://images.unsplash.com/photo-1592499879835-3a1691ab26be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=600&q=60");
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
